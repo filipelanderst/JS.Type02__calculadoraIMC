@@ -6,4 +6,4 @@ __Link da página:__ [https://flx-lander7.github.io/JS.Type02__calculadoraIMC/](
 
 <br>
 
-![Captura de tela]()
+![Captura de tela](https://raw.githubusercontent.com/flx-lander7/JS.Type02__calculadoraIMC/main/capturaDeTela__JS.Type02-calculadoraIMC.png)
